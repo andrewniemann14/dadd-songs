@@ -1,0 +1,155 @@
+export const songs = {
+
+
+"a101": "A Child Of The King",
+"a102": "A Mighty Fortress Is Our God",
+"a103": "",
+"a104": "A New Name In Glory",
+"a105": "A Passion For Souls",
+"a106": "	",
+"a107": "A Shelter In The Time Of Storm",
+"a108": "A Soul Winner For Jesus",
+"a109": "	",
+"a110": "Abide With Me",
+"a111": "Alas!  And Did My Savior Bleed ¾",
+"a112": "	",
+"a113": "All For Jesus		James",
+"a114": "All For Jesus		Atchinson",
+"a115": "	",
+"a116": "All Hail, Immanuel!",
+"a117": "All Hail The Power Of Jesus’ Name",
+"a118": "",
+"a119": "All I Need",
+"a120": "All That Thrills My Soul",
+"a121": "	",
+"a122": "All The Way My Saviour Leads Me",
+"a123": "All You Anxiety",
+"a124": "	",
+"a125": "Almost",
+"a126": "Almost Persuaded",
+"a127": "	",
+"a128": "Am I A Soldier Of The Cross",
+"a129": "Amazing Grace",
+"a130": "	",
+"a131": "America",
+"a132": "And Can It Be That I Should Gain?",
+"a133": "	",
+"a134": "Angels, From The Realms Of Glory",
+"a135": "Anywhere With Jesus",
+"a136": "	",
+"a137": "Are You Washed In The Blood?",
+"a138": "Arise, My Soul, Arise!",
+"a139": "	",
+"a140": "Art Thou Weary, Art Thou Languid?",
+"a141": "As A Volunteer",
+"a142": "	",
+"a143": "Ashamed Of Jesus",
+"a144": "Ask And Seek And Knock",
+"a145": "	",
+"a146": "At Calvary",
+"a147": "At The Cross 4/4	Hudson",
+"a148": "	",
+"a149": "Awakening Chorus",
+"a150": "Away In A Manger",
+"a151": "	",
+"a152": "	",
+
+"b101": "Back To Bethel",
+"b102": "Battle Hymn Of The Republic",
+"b103": "",
+"b104": "Behold, He Comes!",
+"b105": "Be Still My Soul",
+"b106": "",
+"b107": "Beneath The Cross Of Jesus",
+"b108": "Beulah Land",
+"b109": "",
+"b110": "Blessed Assurance",
+"b111": "Blessed Be The Name",
+"b112": "",
+"b113": "Blessed Quietness",
+"b114": "Blessed Redeemer",
+"b115": "",
+"b116": "Blest Be The Tie",
+"b117": "Break Thou The Bread Of Life",
+"b118": "",
+"b119": "Breathe On Me 6/4 ",
+"b120": "Breathe On Me, Breath Of God ¾",
+"b121": "",
+"b122": "Brethren, We Have Met To Worship",
+"b123": "Bring Them In",
+"b124": "",
+"b125": "Bring Your Vessels Not A Few",
+"b126": "Bringing In The Sheaves",
+"b127": "",
+"b128": "Builded On The Rock",
+"b129": "Burdens Are Lifted At Calvary",
+"b130": "",
+"b131": "",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  "j101":		"Jesus Bids Us Shine",
+  "j102":		"Jesus, Blessed Jesus",
+  "j103":		"",
+  "j104":		"Jesus Calls Us",
+  "j105":		"Jesus, I Am Resting",
+  "j106":		"",
+  "j107":		"Jesus, I Come",
+  "j108":		"Jesus, I My Cross Have Taken",
+  "j109":		"",
+  "j110":		"Jesus In My Heart",
+  "j111":		"Jesus Is All The World To Me",
+  "j112":		"",
+  "j113":		"Jesus Is Calling",
+  "j114":		"Jesus Is Coming",
+  "j115":		"",
+  "j116":		"Jesus Is Coming Again",
+  "j117":		"Jesus Is The Sweetest Name I Know",
+  "j118":		"",
+  "j119":		"Jesus!  Jesus!  Jesus!",
+  "j120":		"Jesus, Lover Of My Soul",
+  "j121":		"",
+  "j122":		"Jesus Loves Even Me",
+  "j123":		"Jesus Loves Me",
+  "j124":		"",
+  "j125":		"Jesus Loves The Little Children",
+  "j126":		"Jesus Never Fails",
+  "j127":		"",
+  "j128":		"Jesus, Only Jesus",
+  "j129":		"Jesus Paid It All",
+  "j130":		"",
+  "j131":		"Jesus Saves",
+  "j132":		"Jesus, Savior, Pilot Me",
+  "j133":		"",
+  "j134":		"Jesus!  The Very Thought Of Thee",
+  "j135":		"Joy To The World",
+  "j136":		"",
+  "j137":		"Joy Unspeakable",
+  "j138":		"Just A Closer Walk With Thee",
+  "j139":		"",
+  "j140":		"Just As I Am",
+  "j141":		"Just Over In The Glory Land",
+  "j142":		"",
+  "j143":		"Just When I Need Him Most"
+  }
