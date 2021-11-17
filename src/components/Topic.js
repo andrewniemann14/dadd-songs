@@ -9,12 +9,12 @@ const Topic = ({t}) => {
     <div>
       <div>
         <a data-tip data-for={t.topic}>{t.topic}</a>
-        <ReactTooltip id={t.topic} delayHide="500" effect="solid" place="right" border="true" textColor="white" clickable="true">
+        <ReactTooltip id={t.topic} delayHide="350" effect="solid" place="right" border="true" textColor="white" clickable="true">
           {t.songs.map((s) => {
             return (
               <div>
                 <a href={"https://hymnary.org/search?qu=" + songs[s.song]} target="_blank" className="no-underline text-xl">
-                  {songs[s.song] + (s.verse ? " v" + s.verse : "")}
+                  {songs[s.song] + (s.verse ? " - v" + s.verse : "")}
                 </a>
                 <br />
               </div>
